@@ -1,0 +1,33 @@
+{
+  "name": "baby-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruce-plutusds/baby-token.git"
+  },
+  "keywords": [
+    "baby-token",
+    "baby-coin",
+    "baby",
+    "token",
+    "coin",
+    "erc20"
+  ],
+  "author": "Park Jongseok",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/bruce-plutusds/baby-token/issues"
+  },
+  "homepage": "https://github.com/bruce-plutusds/baby-token#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.3.0"
+  }
+}
