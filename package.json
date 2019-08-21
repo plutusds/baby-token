@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "truffle test",
+    "test": "./scripts/test.sh --network ganache",
     "lint": "solium -d contracts/"
   },
   "repository": {
@@ -29,6 +29,12 @@
   },
   "homepage": "https://github.com/bruce-plutusds/baby-token#readme",
   "dependencies": {
-    "openzeppelin-solidity": "^2.3.0"
+    "@openzeppelin/contracts": "^2.3.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "ganache-cli": "^6.6.0",
+    "openzeppelin-test-helpers": "^0.4.2",
+    "truffle": "^5.0.32"
   }
 }
