@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bruce-plutusds/baby-token.git"
+    "url": "git+https://github.com/plutusds/baby-token.git"
   },
   "keywords": [
     "baby-token",
@@ -25,9 +25,9 @@
   "author": "Park Jongseok",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/bruce-plutusds/baby-token/issues"
+    "url": "https://github.com/plutusds/baby-token/issues"
   },
-  "homepage": "https://github.com/bruce-plutusds/baby-token#readme",
+  "homepage": "https://github.com/plutusds/baby-token#readme",
   "dependencies": {
     "@openzeppelin/contracts": "^2.3.0"
   },
