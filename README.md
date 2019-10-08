@@ -9,6 +9,7 @@ A token for Pregnancy Tracker application which is an application with blockchai
 - Symbol: BABY
 - Decimal Points: 18
 - Contract Address: TBD
+- Total Supply: TBD
 
 ## Contract Specification
 Baby Token (BABY) is an ERC20 token that is centrally minted and burned by Pregnancy Tracker.
