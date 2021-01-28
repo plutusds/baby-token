@@ -37,3 +37,6 @@ Tests are ran with [Ganache](https://www.trufflesuite.com/ganache) running on th
 $ npm install
 $ npm run test
 ```
+
+## Audit
+https://certik.foundation/projects/babytoken
